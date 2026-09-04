@@ -1,0 +1,1 @@
+{"cases":[{"id":1,"priority":"p0","description":"打开首页，验证品牌名和主要区块渲染正常"},{"id":2,"priority":"p0","description":"点击导航「新款系列」进入商品列表，验证展示6款商品卡片"},{"id":3,"priority":"p0","description":"点击商品卡片进入详情页，验证颜色尺码选择和库存显示"},{"id":4,"priority":"p1","description":"详情页选择颜色尺码数量，加入订货单后跳转订货单页验证商品存在"},{"id":5,"priority":"p1","description":"订货单页填写订货人信息并提交，验证跳转到成功页并显示订单号"}]}
